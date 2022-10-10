@@ -17,6 +17,11 @@ To execute a demo, run the following
 ```
 matlab Main.m
 ```
+The output will be two figures. The first figure displays the average computational time and the cost for standard MPC while the other displays the same information for our regression-based MPC. See below
+
+![Standard MPC](https://raw.githubusercontent.com/ahmed-elliethy/fast-regression-mpc/main/Demo/Std_MPC.png)
+
+![Fast regression-based MPC](https://raw.githubusercontent.com/ahmed-elliethy/fast-regression-mpc/main/Demo/Adpt_Reg_MPC.png)
 
 ## Reference
 Please cite the following article if you use the code in your research
