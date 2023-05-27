@@ -1,9 +1,9 @@
 
-# Fast Adaptive Regression-based Model Predictive Control
+# Accelerating genetic optimization of nonlinear model predictive control by learning optimal search space size
 
 
 ## License
-Copyright (c) 2022 Ahmed Elliethy.
+Copyright (c) 2023 Eslam Mostafa.
 
 All rights reserved.
 
