@@ -1,6 +1,5 @@
 
-# Accelerating genetic optimization of nonlinear model predictive control by learning optimal search space size
-
+# Fast Adaptive Regression-based Model Predictive Control
 
 ## License
 Copyright (c) 2023 Eslam Mostafa.
@@ -31,8 +30,8 @@ Please cite the following article if you use the code in your research
 @article{mostafa2022fast,
   title={Fast Adaptive Regression-based Model Predictive Control},
   author={Mostafa, Eslam and Elliethy, Ahmed and Aly, Hussein A},
-  journal={arXiv preprint arXiv:2209.02448},
-  year={2022}
+  journal={Control Theory and Technology},
+  year={2023}
 }
 ```
 
